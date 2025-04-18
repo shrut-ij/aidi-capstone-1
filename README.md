@@ -1,7 +1,7 @@
 # Skincare Recommender System Based on Skin Problem Using Content-Based Filtering  
 
 <div align="center">
-<img src="[https://img.freepik.com/free-vector/realistic-cosmetic-background-with-beauty-products_79603-609.jpg?w=1060&t=st=1700021678~exp=1700022278~hmac=454cd6d713db22a83f07121746330bb49e23b2ae4a6eacf0502aae5455da5020](https://images.app.goo.gl/wjn5nuKjyHgYnTQE6)" alt="eCommerce" style="width:800px;height:500px;" align="center">
+<img src="https://img.freepik.com/free-vector/realistic-cosmetic-background-with-beauty-products_79603-609.jpg?w=1060&t=st=1700021678~exp=1700022278~hmac=454cd6d713db22a83f07121746330bb49e23b2ae4a6eacf0502aae5455da5020 https://images.app.goo.gl/wjn5nuKjyHgYnTQE6)" alt="eCommerce" style="width:800px;height:500px;" align="center">
 </div> 
 
 <br>
@@ -58,16 +58,13 @@ Just like the type of skin that is suitable for a skin care product, the perceiv
 <!--<img width="735" alt="image" src="https://github.com/Yunanouv/Skin-Care-Recommender-System/assets/146415555/02fec82f-ab46-443f-834b-8505188e01b6">-->
 </br>
 
-
 # App  
 This project has been deployed using Streamlit. 
 <br>
 <!--<img width="881" alt="image" src="https://github.com/Yunanouv/Skin-Care-Recommender-System/assets/146415555/b03251c5-8605-4c98-9b5c-09e647832eeb">-->
 <br>
-----
 <!--<img width="857" alt="image" src="https://github.com/Yunanouv/Skin-Care-Recommender-System/assets/146415555/c9b2336c-b3d3-4e39-b1ad-c733801d308b"> -->
 <br>
------
 <!-- <img width="856" alt="image" src="https://github.com/Yunanouv/Skin-Care-Recommender-System/assets/146415555/d7042f8d-7ed9-4fdb-990e-a7eccd6b67e8"> -->
 <br>
 
