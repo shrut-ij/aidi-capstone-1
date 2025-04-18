@@ -1,7 +1,7 @@
 # Skincare Recommender System Based on Skin Problem Using Content-Based Filtering  
 
 <div align="center">
-<img src="https://images.app.goo.gl/wjn5nuKjyHgYnTQE6)" alt="eCommerce" style="width:800px;height:500px;" align="center">
+<img src="https://news.northeastern.edu/wp-content/uploads/2024/01/Skincare1400.jpg?w=1024" alt="eCommerce" style="width:800px;height:500px;" align="center">
 </div> 
 
 <br>
